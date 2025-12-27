@@ -107,7 +107,7 @@ This interactive Excel dashboard is designed for easy exploration. Follow these 
 
 ## Author & Contact
 - Name: `Pratyush Puri`
-- Contact: pratyushpuri17@gmail / [LinkedIn](https://www.linkedin.com/in/pratyushpuri)
+- Contact: `pratyushpuri17@gmail.com` / [LinkedIn](https://www.linkedin.com/in/pratyushpuri)
 
 
  
