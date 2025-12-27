@@ -40,7 +40,7 @@ This analysis uses a synthetic HR analytics dataset from [Kaggle: HR Analytics C
 
 ## Analysis
 
-> File for Analytics is `Adecco.xlsx`
+> Solution File for Analytics is `Adecco.xlsx`
 
 ### **Data Analysis Process in Excel**
 
