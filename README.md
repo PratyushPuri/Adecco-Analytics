@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://logos-world.net/wp-content/uploads/2023/08/Adecco-Logo.png" alt="drawing" width="300"/>
+<img src="adecco.png" alt="drawing" width="300"/>
 
 </div>
 
@@ -83,9 +83,11 @@ Additional charts offer important context:
 
 This dashboard turns raw data into clear, strategic information. It not only measures the problem but also shows where and why it happens, providing a solid basis for targeted HR actions and policy reviews to improve retention.
 
+---
 
+![Adecco](Adecco%20Dash.png)
 
-![Adecco](https://raw.githubusercontent.com/PratyushPuri/Adecco-Analytics/refs/heads/main/Adecco%20Dash.png)
+---
 
 <br>
 
